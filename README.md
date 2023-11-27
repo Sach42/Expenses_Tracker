@@ -55,7 +55,7 @@ Welcome to the Expense Tracker project – where managing your finances becomes 
 
 
 ## Demo Video
-  <a href="[https://your-video-link.com](https://drive.google.com/file/d/1bOmg_xS8iu2Qvbm3ya6fujEJY-Yub5Cc/view?usp=sharing)">
+  <a href="[[https://your-video-link.com](https://drive.google.com/file/d/1bOmg_xS8iu2Qvbm3ya6fujEJY-Yub5Cc/view?usp=sharing)](https://drive.google.com/file/d/1bOmg_xS8iu2Qvbm3ya6fujEJY-Yub5Cc/view?usp=drive_link)">
     <img src="[https://your-image-link.com/video-thumbnail.png](https://icons8.com/icon/CIA5SWjjSPqk/expense)" alt="Expense Tracker Demo">
   </a>
 
